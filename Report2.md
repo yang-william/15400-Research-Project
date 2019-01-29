@@ -16,10 +16,9 @@ I was surprised on how difficult it is to get started, especially retrieving the
 ## Milestones Revisions
 
 #### February 15th
-Determine whether the existing model is invertible.
-Start implementing Conditional Adversarial Network for light-transmitted microscope images.
-Retrieve the CLEM data.
-
+• Determine whether the existing model is invertible
+• Start implementing Conditional Adversarial Network for light-transmitted microscope images
+• Retrieve the CLEM data
 
 ## Resources Needed
 I am currently waiting for the light-transmitted microscopy images to be copied to the cluster. I am also waiting on Professor Murphy for more CLEM data. 
