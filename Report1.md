@@ -15,14 +15,14 @@ I was really surprised on how difficult to find and scarce CLEM datasets are. Ho
 
 ## Milestones Revisions
 
-February 1st
+#### February 1st
 • Implement or use the existing GAN to do some analysis on electron microscope (EM) images
 • Implement a method to segment fluorescent microscope (FM) images into individual organelles / structures
 
-February 15th
+#### February 15th
 • Develop or implement a method that can either (1) directly register fluorescence distributions in FM images with electron density distributions in EM images or (2) register segmented FM images with texture descriptors in EM images
 
-March 1st
+#### March 1st
 • Finish up the registration algorithm
 • Measure or compare the effectiveness of the registration algorithm
 • Investigate methods of developing a classifier that can distinguish different probes in FM and EM image
