@@ -17,6 +17,7 @@ I was really surprised on how difficult to find and scarce CLEM datasets are. Ho
 
 #### February 1st
 • Implement or use the existing GAN to do some analysis on electron microscope (EM) images
+
 • Implement a method to segment fluorescent microscope (FM) images into individual organelles / structures
 
 #### February 15th
@@ -24,7 +25,9 @@ I was really surprised on how difficult to find and scarce CLEM datasets are. Ho
 
 #### March 1st
 • Finish up the registration algorithm
+
 • Measure or compare the effectiveness of the registration algorithm
+
 • Investigate methods of developing a classifier that can distinguish different probes in FM and EM image
 
 ## Resources Needed
