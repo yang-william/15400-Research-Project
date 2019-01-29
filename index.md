@@ -1,8 +1,8 @@
 # Developing a robust model for electron microscope (EM) images and fluorescence microscope (FM) images 
 
-[Milestone Reports](Reports.md)
+## [Milestone Reports](Reports.md)
 
-## Project Description:
+## Project Description
 
 Fluorescence microscopy is one of the most popular imaging methods in biological research today. The basic intuition behind fluorescence microscopy is attaching fluorescent molecules called fluorophores to a biological structure of interest. The biological specimen is then bombarded with a specific wavelength of light. The fluorophores will absorb the light and remit the light at a different wavelength. Thus, the images captured from the biological specimen will reveal the locations of the fluorophores, and therefore, the location of the biological structure of interest. Because the fluorophores remit light at a different wavelength, locating the biological structure of interest within a fluorescent microscope image is a very easy task and does not require advanced computational techniques or advanced human expertise. 
 
@@ -15,14 +15,14 @@ I will be working with professor Robert Murphy, the head of computational biolog
 Instead of generating realistic looking EM images, this research project will focus on bridging the gap between electron microscopy and fluorescence microscopy. This is particularly challenging because images from the electron microscope are very different than images from the fluorescence microscope. However, robust computational techniques that can bridge the gap between electron microscopy and fluorescence microscopy would allow biological researchers to apply FM imaging techniques with the resolution of EM imaging. This will improve the results of previous research as well as create new directions in biological research. 
 
 
-## Project Goals: 
+## Project Goals
 
 In order to bridge the gap between electron microscopy and fluorescent microscopy, we will develop a model that can convert EM images to FM images as well as FM images to EM images.
 
 In particular, the key difference between electron microscopy and fluorescence microscopy we like to explore is probes like fluorophores within the image. Therefore, for our 75% goal, we like to build a classifier that can distinguish the different types of probes within an EM image. The end goal of the project is to build a robust bidirectional model for EM and FM images. Thus, for our 100% goal, we like to build a statistical/machine learning model that can convert EM images to FM images and vice versa with at least 2 probes. If time permits, we would like to make our model more robust. For our 125% goal, we like to improve the robustness of our model and increase its conversion accuracy.
 
 
-## Milestones:
+## Milestones
 
 By the end of 15-300 (December 17th), I will have conducted the appropriate literature search needed for the project as well as set up all the software I need for the project.  
 
