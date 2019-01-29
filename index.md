@@ -1,5 +1,7 @@
 # Developing a robust model for electron microscope (EM) images and fluorescence microscope (FM) images 
 
+[Milestone Reports](Reports.md)
+
 ## Project Description:
 
 Fluorescence microscopy is one of the most popular imaging methods in biological research today. The basic intuition behind fluorescence microscopy is attaching fluorescent molecules called fluorophores to a biological structure of interest. The biological specimen is then bombarded with a specific wavelength of light. The fluorophores will absorb the light and remit the light at a different wavelength. Thus, the images captured from the biological specimen will reveal the locations of the fluorophores, and therefore, the location of the biological structure of interest. Because the fluorophores remit light at a different wavelength, locating the biological structure of interest within a fluorescent microscope image is a very easy task and does not require advanced computational techniques or advanced human expertise. 
