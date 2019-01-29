@@ -17,7 +17,9 @@ I was surprised on how difficult it is to get started, especially retrieving the
 
 #### February 15th
 • Determine whether the existing model is invertible
+
 • Start implementing Conditional Adversarial Network for light-transmitted microscope images
+
 • Retrieve the CLEM data
 
 ## Resources Needed
