@@ -1,5 +1,5 @@
 
-# January 29th, 2019
+# February 12th, 2019
 
 ## Major Changes
 Professor Murphy did not receive any new CLEM data. Therefore, it is our best interest right now to focus on just the light-transmitted microscope images. In addition, we decided to design our model similar to the previous model using Adversarial Autoencoders instead of Conditional Adversarial Network. This approach allows the model to predict images even when some of the features are missing. 
