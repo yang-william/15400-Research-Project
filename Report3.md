@@ -11,11 +11,11 @@ We successfully determined that the existing model is not invertible and have st
 There were no surprises.
 ## Milestones Revisions
 
-####March 1st
+#### March 1st
 
 Finish developing the 2D model for translating microscope images
 
-####March 22nd
+#### March 22nd
 
 Tune the 2D model to increase performance
 
