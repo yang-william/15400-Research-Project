@@ -23,3 +23,5 @@ Start implementing the 3D model
 
 ## Resources Needed
 No resources is needed at the moment.
+
+![useful image]({{ https://yang-william.github.io/15400-Research-Project }}/download.png)
